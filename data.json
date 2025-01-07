@@ -1,0 +1,81 @@
+{
+    "breadCrumbArea": {
+        "listTitle": "Web Development",
+        "title": "The Complete Histudy 2022: From Zero to Expert!",
+        "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "imageUrl": "assets/images/bg/bg-image-10.jpg",
+        "author": "Angela",
+        "authorImage": "assets/images/client/avatar-02.png",
+        "authorLink": "profile.html",
+        "authorCategory": "Development",
+        "rating": "4.8",
+        "totalRating": "215,475 rating",
+        "totalStudent": "616,029 students",
+        "lastUpdated": "12/2024",
+        "language": "English",
+        "certification": "Certified Course",
+        "instructor": "Angela",
+        "instructorImage": "assets/images/client/avatar-02.png",
+        "instructorLink": "profile.html",
+        "instructorCategory": "Development"
+    },
+    "courseDetailContent": {
+        "instructor": "ObjectIdOfInstructorDetail", 
+        "overviewBox": {
+            "title": "What you'll learn",
+            "description": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals...",
+            "listOneItems": [
+                "Become an advanced, confident, and modern JavaScript developer from scratch.",
+                "Have an intermediate skill level of Python programming.",
+                "Have a portfolio of various data analysis projects.",
+                "Use the numpy library to create and manipulate arrays."
+            ],
+            "listTwoItems": [
+                "Use the Jupyter Notebook Environment. JavaScript developer from scratch.",
+                "Use the pandas module with Python to create and structure data.",
+                "Have a portfolio of various data analysis projects.",
+                "Create data visualizations using matplotlib and the seaborn."
+            ],
+            "pText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, aliquam voluptas laudantium incidunt architecto nam excepturi provident rem laborum repellendus placeat neque aut doloremque ut ullam, veritatis nesciunt iusto officia alias, non est vitae..."
+        },
+        "courseContentBox": {
+            "id": 1,
+            "accBtnText": "Intro to Course and Histudy",
+            "accBtnTime": "1hr 30min",
+            "collapse": true,
+            "contentResources": [
+                {
+                    "title": "Course Intro",
+                    "time": "30 min",
+                    "preview": "Preview",
+                    "videoIcon": true
+                },
+                {
+                    "title": "Watch Before Start",
+                    "time": "0.5 min",
+                    "preview": "Preview",
+                    "videoIcon": true
+                },
+                {
+                    "title": "Read Before You Start",
+                    "videoIcon": false
+                }
+            ],
+            "title": "Course Content",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, aliquam voluptas laudantium incidunt architecto nam excepturi provident rem laborum repellendus placeat neque aut doloremque ut ullam, veritatis nesciunt iusto officia alias, non est vitae..."
+        },
+        "reqDes": {
+            "title": "Requirements",
+            "list": [
+                "Become an advanced, confident, and modern JavaScript developer from scratch.",
+                "Have an intermediate skill level of Python programming.",
+                "Have a portfolio of various data analysis projects.",
+                "Use the numpy library to create and manipulate arrays."
+            ]
+        },
+        "review": "ObjectIdOfReview", 
+        "featuredReview": "ObjectIdOfFeaturedReview",
+        "relatedCourse": "ObjectIdOfRelatedCourse"
+    }
+}
+
